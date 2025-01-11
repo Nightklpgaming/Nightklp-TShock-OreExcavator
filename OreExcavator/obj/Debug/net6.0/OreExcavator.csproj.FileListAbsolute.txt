@@ -1,0 +1,13 @@
+C:\Users\Rock\source\repos\OreExcavator\OreExcavator\obj\Debug\net6.0\OreExcavator.csproj.AssemblyReference.cache
+C:\Users\Rock\source\repos\OreExcavator\OreExcavator\obj\Debug\net6.0\OreExcavator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rock\source\repos\OreExcavator\OreExcavator\obj\Debug\net6.0\OreExcavator.AssemblyInfoInputs.cache
+C:\Users\Rock\source\repos\OreExcavator\OreExcavator\obj\Debug\net6.0\OreExcavator.AssemblyInfo.cs
+C:\Users\Rock\source\repos\OreExcavator\OreExcavator\obj\Debug\net6.0\OreExcavator.csproj.CoreCompileInputs.cache
+C:\Users\Rock\source\repos\OreExcavator\OreExcavator\bin\Debug\net6.0\HttpServer.dll
+C:\Users\Rock\source\repos\OreExcavator\OreExcavator\bin\Debug\net6.0\OreExcavator.deps.json
+C:\Users\Rock\source\repos\OreExcavator\OreExcavator\bin\Debug\net6.0\OreExcavator.dll
+C:\Users\Rock\source\repos\OreExcavator\OreExcavator\bin\Debug\net6.0\OreExcavator.pdb
+C:\Users\Rock\source\repos\OreExcavator\OreExcavator\obj\Debug\net6.0\OreExcavator.dll
+C:\Users\Rock\source\repos\OreExcavator\OreExcavator\obj\Debug\net6.0\refint\OreExcavator.dll
+C:\Users\Rock\source\repos\OreExcavator\OreExcavator\obj\Debug\net6.0\OreExcavator.pdb
+C:\Users\Rock\source\repos\OreExcavator\OreExcavator\obj\Debug\net6.0\ref\OreExcavator.dll
