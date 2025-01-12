@@ -26,7 +26,7 @@ namespace OreExcavator
         public override string Author => "Nightklp";
         public override string Description => "Similar to tmodloader where you mined ore vein effortlessly";
         public override string Name => "OreExcavator";
-        public override System.Version Version => new System.Version(1, 0);
+        public override System.Version Version => new System.Version(1, 0, 1);
         #endregion
 
         public static Config Config = Config.Read();
@@ -137,8 +137,9 @@ namespace OreExcavator
                             
                             Main.tile[x, y].type = 0;
                             Main.tile[x, y].active(false);
-                            NetMessage.SendTileSquare(args.Player.Index, x, y, 2);
-
+                            NetMessage.SendTileSquare(-1, x, y, 2);
+                            TShock.Players.ForEach( plr => { if (plr != null) { NetMessage.SendTileSquare(plr.Index, x, y, 2); } });
+                            
                             ParticleOrchestraSettings settings = new()
                             {
                                 IndexOfPlayerWhoInvokedThis = (byte)TSPlayer.Server.Index,
@@ -205,6 +206,8 @@ namespace OreExcavator
                 result.Add(TileID.Platinum, ItemID.PlatinumOre);
                 result.Add(TileID.Demonite, ItemID.DemoniteOre);
                 result.Add(TileID.Crimtane, ItemID.CrimtaneOre);
+                result.Add(TileID.Meteorite, ItemID.Meteorite);
+                result.Add(TileID.Hellstone, ItemID.Hellstone);
                 result.Add(TileID.Palladium, ItemID.PalladiumOre);
                 result.Add(TileID.Cobalt, ItemID.CobaltOre);
                 result.Add(TileID.Orichalcum, ItemID.OrichalcumOre);
@@ -212,6 +215,7 @@ namespace OreExcavator
                 result.Add(TileID.Adamantite, ItemID.AdamantiteOre);
                 result.Add(TileID.Titanium, ItemID.TitaniumOre);
                 result.Add(TileID.Chlorophyte, ItemID.ChlorophyteOre);
+                result.Add(TileID.LunarOre, ItemID.LunarOre);
 
                 return result;
             }

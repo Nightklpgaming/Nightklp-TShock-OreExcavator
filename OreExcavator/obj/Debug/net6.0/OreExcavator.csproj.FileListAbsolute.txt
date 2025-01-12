@@ -11,3 +11,16 @@ C:\Users\Rock\source\repos\OreExcavator\OreExcavator\obj\Debug\net6.0\OreExcavat
 C:\Users\Rock\source\repos\OreExcavator\OreExcavator\obj\Debug\net6.0\refint\OreExcavator.dll
 C:\Users\Rock\source\repos\OreExcavator\OreExcavator\obj\Debug\net6.0\OreExcavator.pdb
 C:\Users\Rock\source\repos\OreExcavator\OreExcavator\obj\Debug\net6.0\ref\OreExcavator.dll
+D:\Nightklp_KLP\my_Terraria_Plugins\my plugins\OreExcavator\OreExcavator\bin\Debug\net6.0\HttpServer.dll
+D:\Nightklp_KLP\my_Terraria_Plugins\my plugins\OreExcavator\OreExcavator\bin\Debug\net6.0\OreExcavator.deps.json
+D:\Nightklp_KLP\my_Terraria_Plugins\my plugins\OreExcavator\OreExcavator\bin\Debug\net6.0\OreExcavator.dll
+D:\Nightklp_KLP\my_Terraria_Plugins\my plugins\OreExcavator\OreExcavator\bin\Debug\net6.0\OreExcavator.pdb
+D:\Nightklp_KLP\my_Terraria_Plugins\my plugins\OreExcavator\OreExcavator\obj\Debug\net6.0\OreExcavator.csproj.AssemblyReference.cache
+D:\Nightklp_KLP\my_Terraria_Plugins\my plugins\OreExcavator\OreExcavator\obj\Debug\net6.0\OreExcavator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nightklp_KLP\my_Terraria_Plugins\my plugins\OreExcavator\OreExcavator\obj\Debug\net6.0\OreExcavator.AssemblyInfoInputs.cache
+D:\Nightklp_KLP\my_Terraria_Plugins\my plugins\OreExcavator\OreExcavator\obj\Debug\net6.0\OreExcavator.AssemblyInfo.cs
+D:\Nightklp_KLP\my_Terraria_Plugins\my plugins\OreExcavator\OreExcavator\obj\Debug\net6.0\OreExcavator.csproj.CoreCompileInputs.cache
+D:\Nightklp_KLP\my_Terraria_Plugins\my plugins\OreExcavator\OreExcavator\obj\Debug\net6.0\OreExcavator.dll
+D:\Nightklp_KLP\my_Terraria_Plugins\my plugins\OreExcavator\OreExcavator\obj\Debug\net6.0\refint\OreExcavator.dll
+D:\Nightklp_KLP\my_Terraria_Plugins\my plugins\OreExcavator\OreExcavator\obj\Debug\net6.0\OreExcavator.pdb
+D:\Nightklp_KLP\my_Terraria_Plugins\my plugins\OreExcavator\OreExcavator\obj\Debug\net6.0\ref\OreExcavator.dll

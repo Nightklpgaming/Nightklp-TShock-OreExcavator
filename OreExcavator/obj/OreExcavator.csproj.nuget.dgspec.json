@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rock\\source\\repos\\OreExcavator\\OreExcavator\\OreExcavator.csproj": {}
+    "D:\\Nightklp_KLP\\my_Terraria_Plugins\\my plugins\\OreExcavator\\OreExcavator\\OreExcavator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rock\\source\\repos\\OreExcavator\\OreExcavator\\OreExcavator.csproj": {
+    "D:\\Nightklp_KLP\\my_Terraria_Plugins\\my plugins\\OreExcavator\\OreExcavator\\OreExcavator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rock\\source\\repos\\OreExcavator\\OreExcavator\\OreExcavator.csproj",
+        "projectUniqueName": "D:\\Nightklp_KLP\\my_Terraria_Plugins\\my plugins\\OreExcavator\\OreExcavator\\OreExcavator.csproj",
         "projectName": "OreExcavator",
-        "projectPath": "C:\\Users\\Rock\\source\\repos\\OreExcavator\\OreExcavator\\OreExcavator.csproj",
+        "projectPath": "D:\\Nightklp_KLP\\my_Terraria_Plugins\\my plugins\\OreExcavator\\OreExcavator\\OreExcavator.csproj",
         "packagesPath": "C:\\Users\\Rock\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rock\\source\\repos\\OreExcavator\\OreExcavator\\obj\\",
+        "outputPath": "D:\\Nightklp_KLP\\my_Terraria_Plugins\\my plugins\\OreExcavator\\OreExcavator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rock\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cGgKIe0D6YA=",
+  "dgSpecHash": "+3Webxm8inU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rock\\source\\repos\\OreExcavator\\OreExcavator\\OreExcavator.csproj",
+  "projectFilePath": "D:\\Nightklp_KLP\\my_Terraria_Plugins\\my plugins\\OreExcavator\\OreExcavator\\OreExcavator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rock\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Rock\\.nuget\\packages\\gettext.net\\1.7.14\\gettext.net.1.7.14.nupkg.sha512",
